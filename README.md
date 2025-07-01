@@ -1,6 +1,6 @@
 Eaew Me chamo **DentinhoJs**.
 
-Sou desenvolvedor full stack com foco em:
+Sou desenvolvedor com foco em:
 - Criação de bots com Node.js
 - Projetos de robótica com Arduino
 - Desenvolvimento front-end com HTML, CSS, JavaScript e TypeScript
