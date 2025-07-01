@@ -1,4 +1,4 @@
-Eaew Me chamo **DentinhoJs**.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&Code&pause=7000&repeat=true&lines=Eaew+Me+chamo+DentinhoJs)
 
 Sou desenvolvedor com foco em:
 - Criação de bots com Node.js
@@ -46,4 +46,3 @@ Sou desenvolvedor com foco em:
 
 - GitHub: [github.com/DentinhoJs](https://github.com/DentinhoJs)
 - Portfólio: [https://dev-dentinhojs.vercel.app](https://dev-dentinhojs.vercel.app)
-
