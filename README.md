@@ -44,14 +44,6 @@ Sou desenvolvedor full stack com foco em:
 
 ---
 
-### 🚀 Em andamento
-
-- Projetos de automação e bots com inteligência artificial
-- Plataformas web com foco em performance e UX
-- Integração de APIs de pagamento e sistemas de venda
-
----
-
 ### 📫 Contato
 
 - GitHub: [github.com/DentinhoJs](https://github.com/DentinhoJs)
