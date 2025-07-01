@@ -1,7 +1,4 @@
-# Hi there 👋
-
-**Eae, eu sou o Ítalo Almeida**, 🔥 desenvolvedor de bots, sistemas e automações na quebrada com Node.js, Shell e IA.  
-Viciado em robótica 🤖 e sempre no corre com bugs e soluções reais pro mundo tech.
+Eaew, me chamo **DentinhoJs**. Sou desenvolvedor de bots em Node.js, entusiasta de Robótica e programação com Arduino. Também atuo como desenvolvedor front-end e crio Sites
 
 ---
 
