@@ -9,18 +9,29 @@ Sou desenvolvedor full stack com foco em:
 
 ---
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 0 10px; border: none;">
       <strong>📊 GitHub Stats</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=DentinhoJs&show_icons=true&theme=radical&count_private=true" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=DentinhoJs&show_icons=true&theme=radical&count_private=true" 
+        width="440" 
+        alt="GitHub Stats" 
+        style="border:none;"
+      />
     </td>
-    <td align="center">
+    <td align="center" style="padding: 0 10px; border: none;">
       <strong>🔥 Linguagens Mais Usadas</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DentinhoJs&layout=compact&theme=radical" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DentinhoJs&layout=compact&theme=radical" 
+        width="400" 
+        alt="Linguagens Mais Usadas" 
+        style="border:none;"
+      />
     </td>
   </tr>
 </table>
+
 ---
 
 ### 💻 Tecnologias que utilizo:
