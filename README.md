@@ -12,18 +12,16 @@ Sou desenvolvedor com foco em:
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="padding: 0 10px; border: none;">
-      <strong>📊 GitHub Stats</strong><br/>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=DentinhoJs&show_icons=true&theme=radical&count_private=true" 
+        src="https://github-readme-stats.vercel.app/api?username=DentinhoJs&show_icons=true&theme=radical&locale=pt-BR" 
         width="440" 
-        alt="GitHub Stats" 
+        alt="Estatísticas do GitHub" 
         style="border:none;"
       />
     </td>
     <td align="center" style="padding: 0 10px; border: none;">
-      <strong>🔥 Linguagens Mais Usadas</strong><br/>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DentinhoJs&layout=compact&theme=radical" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DentinhoJs&layout=compact&theme=radical&locale=pt-BR" 
         width="400" 
         alt="Linguagens Mais Usadas" 
         style="border:none;"
@@ -48,3 +46,4 @@ Sou desenvolvedor com foco em:
 
 - GitHub: [github.com/DentinhoJs](https://github.com/DentinhoJs)
 - Portfólio: [https://dev-dentinhojs.vercel.app](https://dev-dentinhojs.vercel.app)
+
