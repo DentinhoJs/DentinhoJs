@@ -9,26 +9,33 @@ Sou desenvolvedor com foco em:
 
 ---
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="padding: 0 10px; border: none;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=DentinhoJs&show_icons=true&theme=transparent&text_color=ffffff&icon_color=099fff&title_color=099fff&locale=pt-BR" 
-        width="440" 
-        alt="Estatísticas do GitHub" 
-        style="border:none;"
-      />
-    </td>
-    <td align="center" style="padding: 0 10px; border: none;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DentinhoJs&layout=compact&theme=transparent&text_color=ffffff&icon_color=099fff&title_color=099fff&locale=pt-BR" 
-        width="400" 
-        alt="Linguagens Mais Usadas" 
-        style="border:none;"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- Bloco com 3 cards lado a lado -->
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=DentinhoJs&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&text_color=ffffff&icon_color=099fff&title_color=099fff&hide_border=true&cache_seconds=1&locale=pt-BR&custom_title=Estatísticas%20completas%20do%20DentinhoJs" 
+          height="200px"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=DentinhoJs&layout=compact&theme=transparent&text_color=ffffff&icon_color=099fff&title_color=099fff&locale=pt-BR&hide_border=true&custom_title=Linguagens%20mais%20usadas" 
+          height="200px"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://streak-stats.demolab.com?user=DentinhoJs&theme=transparent&hide_border=true&ring=099fff&fire=099fff&currStreakLabel=ffffff&locale=pt_BR" 
+          height="200px"
+        />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
