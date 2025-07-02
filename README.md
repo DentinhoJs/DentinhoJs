@@ -13,7 +13,7 @@ Sou desenvolvedor com foco em:
   <tr>
     <td align="center" style="padding: 0 10px; border: none;">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=DentinhoJs&show_icons=true&theme=radical&locale=pt-BR" 
+        src="https://github-readme-stats.vercel.app/api?username=DentinhoJs&show_icons=true&theme=transparent&text_color=ffffff&icon_color=099fff&title_color=099fff&locale=pt-BR" 
         width="440" 
         alt="Estatísticas do GitHub" 
         style="border:none;"
@@ -21,7 +21,7 @@ Sou desenvolvedor com foco em:
     </td>
     <td align="center" style="padding: 0 10px; border: none;">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DentinhoJs&layout=compact&theme=radical&locale=pt-BR" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DentinhoJs&layout=compact&theme=transparent&text_color=ffffff&icon_color=099fff&title_color=099fff&locale=pt-BR" 
         width="400" 
         alt="Linguagens Mais Usadas" 
         style="border:none;"
