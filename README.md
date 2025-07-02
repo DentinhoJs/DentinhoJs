@@ -13,7 +13,7 @@ Sou desenvolvedor com foco em:
   <tr>
     <td align="center" style="padding: 0 10px; border: none;">
       <img 
-        src="" 
+        src="https://github-readme-stats.vercel.app/api?username=DentinhoJs&show_icons=true&theme=transparent&text_color=ffffff&icon_color=099fff&title_color=099fff&locale=pt-BR" 
         width="440" 
         alt="Estatísticas do GitHub" 
         style="border:none;"
