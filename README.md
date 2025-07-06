@@ -1,11 +1,20 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&Code&pause=4000&repeat=true&lines=Eaew+Me+chamo+DentinhoJs)
 
-Sou desenvolvedor com foco em:
-- Criação de bots com Node.js
-- Projetos de robótica com Arduino
-- Desenvolvimento front-end com HTML, CSS, JavaScript e TypeScript
-- Automatizações com Shell Script e Linux
-- Integrações com banco de dados MySQL
+<p>
+  <strong>Sou desenvolvedor com foco em:</strong>
+  <img 
+    src="https://viewfy.vercel.app/visitors/DentinhoJs?label=Visualiza%C3%A7%C3%B5es&maxWidth=200&paddingX=15&paddingY=10&iconSize=24&fontFamily=%27Segoe+UI%27%2C+Tahoma%2C+Geneva%2C+Verdana%2C+sans-serif&fontSizeLabel=16&fontSizeCount=17&bgStart=%23232526&bgEnd=%23414345&labelColor=%23ffffff&countColor=%23ffffff&icon=fas+fa-fire" 
+    alt="Visualizações DentinhoJs"
+    align="right"
+  />
+</p>
+
+- Criação de bots com Node.js  
+- Projetos de robótica com Arduino  
+- Desenvolvimento front-end com HTML, CSS, JavaScript e TypeScript  
+- Automatizações com Shell Script e Linux  
+- Integrações com banco de dados MySQL  
+
 
 ---
 
