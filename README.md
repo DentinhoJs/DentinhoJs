@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&Code&pause=4000&repeat=true&lines=Eaew+Me+chamo+DentinhoJs)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&Code&pause=4000&repeat=true&lines=Eaew+Me+chamo+Italo+Almeida)
 
 <p>
   <strong>Sou desenvolvedor com foco em:</strong>
